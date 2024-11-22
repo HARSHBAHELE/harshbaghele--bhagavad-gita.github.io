@@ -418,14 +418,14 @@ a {
         font-size: 18px;
         height: 40px;
         margin: 20px ;
-        margin-left: 75px;
+        margin-left: 80px;
         padding-top: 9px;
     }
     .main4 p {
         font-size: 15px;
         margin: 10px;
         line-height: 23px;
-        padding-right: 30px;
+        padding-right: 20px;
     }
     .main4 {
         width: 500px;
@@ -434,7 +434,7 @@ a {
         width: 220px;
         height: 200px;
         margin: 10px ;
-        margin-left: 60px;
+        margin-left: 80px;
     }
     .main5, .main6 {
         flex-direction: column;
@@ -447,13 +447,13 @@ a {
         margin-right: 110px;
     }
     .main5 {
-        margin-right: 80px;
+        margin-right: 70px;
     }
     .main5 h1 {
         font-size: 20px;
     }
     .main10 {
-        padding-right: 30px;
+        padding-right: 20px;
     }
     #summeryen {
         font-size: 13px;
@@ -552,3 +552,4 @@ a {
         padding-right: 40px;
     }
 }
+
